@@ -1,2 +1,2 @@
 # Coding
-Perubahan ini cek ombak doang
+Perubahan ini hanya sekedar percobaan
