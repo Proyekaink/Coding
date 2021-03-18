@@ -1,2 +1,2 @@
 # Coding
-Perubahan kode dilacak oleh git
+Perubahan ini cek ombak doang
